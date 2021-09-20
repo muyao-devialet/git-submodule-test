@@ -1,0 +1,3 @@
+[submodule "git_submodule_test_sub"]
+	path = git_submodule_test_sub
+	url = git@github.com:muyao-devialet/git_submodule_test_sub.git
